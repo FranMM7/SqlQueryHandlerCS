@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlQueryHandler", "SqlQueryHandler.csproj", "{7B080985-D0C1-4C8C-8998-C435077CE19D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QueryHandler", "..\QueryHandler\QueryHandler.vbproj", "{A0C05A9B-0632-4FDF-8188-9EEE56A7E1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B080985-D0C1-4C8C-8998-C435077CE19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B080985-D0C1-4C8C-8998-C435077CE19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B080985-D0C1-4C8C-8998-C435077CE19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B080985-D0C1-4C8C-8998-C435077CE19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C05A9B-0632-4FDF-8188-9EEE56A7E1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C05A9B-0632-4FDF-8188-9EEE56A7E1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C05A9B-0632-4FDF-8188-9EEE56A7E1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C05A9B-0632-4FDF-8188-9EEE56A7E1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2CD844-7EE1-40EF-95D3-0B9FC28C4CB9}
+	EndGlobalSection
+EndGlobal
