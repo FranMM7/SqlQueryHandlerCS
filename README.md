@@ -16,7 +16,7 @@ SqlQueryHandler is a robust and efficient C# library for handling SQL queries an
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/frankmejia7/SqlQueryHandlerCS.git
+    git clone https://github.com/franmm7/SqlQueryHandlerCS.git
     ```
 
 2. Open the project in Visual Studio.
